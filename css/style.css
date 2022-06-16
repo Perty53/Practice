@@ -35,8 +35,14 @@ a{
 
 h2{
 				margin-top: 10px;
-				font-size: 1.2em;
+				font-size: 1.5em;
 				color: #36f;
+				
+}
+legend{
+				font-size: 1.3em;
+				margin: 0;
+				margin-top: 8px;
 				
 }
 
@@ -88,6 +94,19 @@ label.title{
 				opacity: 1;
 }
 
+.font-for-label{
+				margin: 4px;
+				font-size: 104%;
+				
+}
+
+#content-btn{
+				position: relative;
+}
+#submit{
+				position: absolute;
+				right: 0px;
+}
 @media (max-width:576px){
 				
 				.navbar-header .navbar-brand h1{
