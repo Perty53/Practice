@@ -74,7 +74,7 @@ label.title{
 				margin-bottom: 3px;
 	
 }
-.form-style{
+.box-form-input1{
 				display: block;
 				width:100%;
 				height: 2.7em;
@@ -89,13 +89,13 @@ label.title{
 				letter-spacing: 1.3px;
 }
 
-.form-style:focus{
+.box-form-input1:focus{
 				box-shadow: 2px 2px 1px 1px rgba(75, 100, 230, .6);
 				outline: none;
 				opacity: 1;
 }
 
-.drop-form{
+.box-form-input2{
 				display: block;
 				width: 50%;
 				height: 1.9em;
@@ -111,7 +111,7 @@ label.title{
 				letter-spacing: 1.3px;
 }
 
-.drop-form:focus{
+.box-form-input2:focus{
 				box-shadow: 2px 2px 1px 1px rgba(75, 100, 230, .6);
 				outline: none;
 				opacity: 1;
