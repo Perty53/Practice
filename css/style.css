@@ -177,9 +177,9 @@ footer{
 
 form{
 				border: 1px dashed rgba(75, 100, 230, .8);
-				padding: 13px;
+				border-radius: 7px;
+                                padding: 13px;
 				padding-bottom: 50px;
-border-radius: 7px;
 				margin-top: 30px;
 }
 @media (max-width:576px){
